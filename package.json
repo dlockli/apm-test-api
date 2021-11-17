@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dlockli/apm-test-api/issues"
   },
-  "homepage": "https://github.com/dlockli/apm-test-api#readme"
+  "homepage": "https://github.com/dlockli/apm-test-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
